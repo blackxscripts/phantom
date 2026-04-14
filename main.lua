@@ -3,7 +3,7 @@
 local TweenService = game:GetService("TweenService")
 local UIS = game:GetService("UserInputService")
 
-local assets = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEUUSER/PhantomUI/main/assets.lua"))()
+local assets = loadstring(game:HttpGet("https://raw.githubusercontent.com/blackxscripts/phantom/refs/heads/main/assets.lua"))()
 
 local UI = {}
 UI.Tabs = {}
